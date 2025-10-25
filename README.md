@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on:
 - My own ASN 
-- Private Project 
+- Private Project (Gonna open a host soon <3)
 - [Kirby Gen](https://kirbygen.com/)
 
 🔧 I’m currently learning:
