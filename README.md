@@ -5,7 +5,7 @@
 - My own ASN 
 - Private Project 
 
-- 🔧 I’m currently learning:
+🔧 I’m currently learning:
 - Cybersecurity
 - Netwoking
 
