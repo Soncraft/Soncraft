@@ -1,7 +1,12 @@
 ## Hi there 👋
-I'm Soncraft a 🇫🇷 french developer !
+**I'm Soncraft a 🇫🇷 french developer !**
 
-- 🔭 I’m currently working on my own ASN / Private Project
-- 🔧 I’m currently learning cybersecurity / Netwoking
-- 📫 How to reach me: contact@soncraft.fr
-- 😄 Pronouns: He/Him 
+- 🔭 I’m currently working on:
+My own ASN 
+Private Project 
+
+- 🔧 I’m currently learning:
+Cybersecurity
+Netwoking
+
+- 📫 You can reach me at: contact@soncraft.fr
